@@ -24,7 +24,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 registerFont("./src/assets/fonts/Roboto/Roboto-Bold.ttf", { family: "RobotoBold" });
 registerFont("./src/assets/fonts/Roboto/Roboto-Regular.ttf", { family: "RobotoRegular" });
 
-app.get("/spotify/now-playing", async function (req, res, next){
+app.get("/spotify", async function (req, res, next){
   const song = await nowPlaying();
 
   let progress_ms = 0;
@@ -100,6 +100,7 @@ app.get("/spotify/now-playing", async function (req, res, next){
 
 
     res.set("Content-Type", "image/svg+xml");
+    res.set("Cache-Control", "s-maxage=1, stale-while-revalidate");
     res.send(canvas.toBuffer());
   }catch (error){
     next(error);
