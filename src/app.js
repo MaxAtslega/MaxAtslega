@@ -49,7 +49,7 @@ app.get("/spotify", async function (req, res, next){
 
   try {
     //Create the Canvas
-    const canvas = Canvas.createCanvas(630, 130);
+    const canvas = Canvas.createCanvas(630, 130,"svg");
     const ctx = canvas.getContext("2d");
     ctx.font = "16px RobotoRegular"
 
@@ -100,7 +100,7 @@ app.get("/spotify", async function (req, res, next){
 
 
 
-    res.set("Content-Type", "image/png");
+    res.set("Content-Type", "image/svg+xml");
     res.send(canvas.toBuffer());
   }catch (error){
     next(error);
