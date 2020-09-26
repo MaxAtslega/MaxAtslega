@@ -19,5 +19,5 @@
 
 **Now Playing** on Spotify 🎧
 
-[<img src="https://status.atslega.de/spotify" alt="Spotify Playing" />](https://open.spotify.com/user/gxuh6amx0d27qr72kom5eqsm2)
+[<img src="https://status.atslega.de/api/spotify" alt="Spotify Playing" width="380"/>](https://open.spotify.com/user/gxuh6amx0d27qr72kom5eqsm2)
 
