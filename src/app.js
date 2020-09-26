@@ -24,7 +24,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 registerFont("./src/assets/fonts/Roboto/Roboto-Bold.ttf", { family: "RobotoBold" });
 registerFont("./src/assets/fonts/Roboto/Roboto-Regular.ttf", { family: "RobotoRegular" });
 
-app.get("/spotify", async function (req, res, next){
+app.get("/api/spotify", async function (req, res, next){
   const song = await nowPlaying();
 
   let progress_ms = 0;
