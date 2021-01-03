@@ -24,8 +24,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 registerFont("./src/assets/fonts/Roboto/Roboto-Bold.ttf", { family: "RobotoBold" });
 registerFont("./src/assets/fonts/Roboto/Roboto-Regular.ttf", { family: "RobotoRegular" });
 
-app.get("/spotify", async function (req, res, next){
-
+app.get("/api/spotify", async function (req, res, next){
   const song = await nowPlaying();
 
   let progress_ms = 0;
@@ -49,7 +48,7 @@ app.get("/spotify", async function (req, res, next){
 
   try {
     //Create the Canvas
-    const canvas = Canvas.createCanvas(630, 130);
+    const canvas = Canvas.createCanvas(630, 130,"svg");
     const ctx = canvas.getContext("2d");
     ctx.font = "16px RobotoRegular"
 
@@ -100,7 +99,8 @@ app.get("/spotify", async function (req, res, next){
 
 
 
-    res.set("Content-Type", "image/png");
+    res.set("Content-Type", "image/svg+xml");
+    res.set("Cache-Control", "s-maxage=1, stale-while-revalidate");
     res.send(canvas.toBuffer());
   }catch (error){
     next(error);
