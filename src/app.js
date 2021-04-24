@@ -52,7 +52,7 @@ app.get("/api/spotify", async function (req, res, next){
     const ctx = canvas.getContext("2d");
     ctx.font = "16px RobotoRegular"
 
-    ctx.strokeStyle = "rgb(13, 17, 23)";
+    ctx.strokeStyle = "#010409";
     ctx.fillRect(0, 0, canvas.width, canvas.height);
 
 
