@@ -51,6 +51,7 @@ app.get("/api/spotify", async function (req, res, next){
     const canvas = Canvas.createCanvas(630, 130,"svg");
     const ctx = canvas.getContext("2d");
     ctx.font = "16px RobotoRegular"
+    ctx.fillStyle = "#0d1117";
 
     let width = canvas.width;
 
