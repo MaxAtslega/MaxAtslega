@@ -51,20 +51,23 @@ app.get("/api/spotify", async function (req, res, next){
     const canvas = Canvas.createCanvas(630, 130,"svg");
     const ctx = canvas.getContext("2d");
     ctx.font = "16px RobotoRegular"
-    ctx.fillStyle = "#0d1117";
+
+    ctx.strokeStyle = "rgb(13, 17, 23)";
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+
 
     let width = canvas.width;
 
     //Set Song
     const song_text = [
-      { text: song_name, fillStyle: "#000000", font: "21px RobotoBold" }
+      { text: song_name, fillStyle: "#ffffff", font: "21px RobotoBold" }
     ];
 
     fillMixedTextLeft(ctx, song_text, 130, 52);
 
     //Set Artist
     const artist_text = [
-      { text: song_artist, fillStyle: "#000000", font: "16px RobotoRegular" }
+      { text: song_artist, fillStyle: "#ffffff", font: "16px RobotoRegular" }
     ];
 
     fillMixedTextLeft(ctx, artist_text, 130, 76);
@@ -72,14 +75,14 @@ app.get("/api/spotify", async function (req, res, next){
     //Set Progressbar
     if (duration_ms !== 0) {
       ctx.fillStyle = "transparent"
-      ctx.strokeStyle = "black";
+      ctx.strokeStyle = "#ffffff";
       roundRect(ctx, 130, 112, width-140, 8, 2, true);
 
 
       let val = Math.ceil((progress_ms / duration_ms * 100 * (width-140)) / 100);
 
       if (val !== 0) {
-        ctx.fillStyle = "#000000";
+        ctx.fillStyle = "#ffffff";
         roundRect(ctx, 130, 112, val, 8, 2, true);
       }
     }
@@ -88,7 +91,7 @@ app.get("/api/spotify", async function (req, res, next){
 
 
     //Set the Cover
-    ctx.strokeStyle = "black";
+    ctx.strokeStyle = "#ffffff";
     roundRect(ctx,10, 10, 110, 110, 10);
 
     if(cover_image !== ""){
