@@ -4,7 +4,7 @@ stages:
   - publishImageConfig:
       dockerfilePath: ./Dockerfile
       buildContext: .
-      tag: maxatslega/status_maxatslega_github_profile
+      tag: status_maxatslega_github_profile
       pushRemote: true
       registry: pcr.atslega.network
 timeout: 60
