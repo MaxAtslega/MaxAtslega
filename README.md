@@ -30,7 +30,7 @@ I am in the evergreen process of learning, and I am loving it!
 
 ## 🎧 Now Playing on Spotify
 
-[<img src="https://spotify-live.atslega.de/api/spotify" alt="Spotify Playing" width="380"/>](https://open.spotify.com/user/gxuh6amx0d27qr72kom5eqsm2)
+[<img src="https://spotify-live.atslega.de/api/spotify/" alt="Spotify Playing" width="380"/>](https://open.spotify.com/user/gxuh6amx0d27qr72kom5eqsm2)
 
 ## 🛠️ My favorite tools
 
