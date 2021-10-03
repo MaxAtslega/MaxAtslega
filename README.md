@@ -25,12 +25,11 @@ I am in the evergreen process of learning, and I am loving it!
 - 💬 Ask me about anything on [Discord](https://discord.gg/8nngawAbmN), I am happy to help
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/MaxAtslega)
-
+<a href="https://www.buymeacoffee.com/MaxAtslega"><img width="200" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=MaxAtslega&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
 ## 🎧 Now Playing on Spotify
 
-[<img src="https://spotify-live.atslega.de/api/spotify?play" alt="Spotify Playing" width="420"/>](https://open.spotify.com/user/gxuh6amx0d27qr72kom5eqsm2)
+[<img src="https://spotify-live.atslega.de/api/spotify" alt="Spotify Playing" width="420"/>](https://open.spotify.com/user/gxuh6amx0d27qr72kom5eqsm2)
 
 ## 🛠️ My favorite tools
 
