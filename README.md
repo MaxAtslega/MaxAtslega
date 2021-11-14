@@ -12,7 +12,7 @@
 ## Glad to see you here!
 I am a student from Germany. Since I was 11 years old, I have been interested in programming and technology. I develop my know-how through books and tutorials. In addition to IT, my hobbies include going to the gym, cycling, walking with my dog and travelling.
 
-I am in the evergreen process of learning, and I am loving it!
+
 <br>
 
 <img align="right" width="300" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
