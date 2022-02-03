@@ -55,6 +55,8 @@ I am a student from Germany. Since I was 11 years old, I have been interested in
     <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
     <img alt="Powershell" src="https://img.shields.io/badge/PowerShell-5391FE.svg?logo=powershell&logoColor=white">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white">
 </p>
 
 ### 🧰 Frameworks and libraries
