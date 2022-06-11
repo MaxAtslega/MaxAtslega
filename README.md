@@ -1,5 +1,5 @@
 
-## Welcome to Max Atslega's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px">
+## Welcome to Max Atslega's profile!
 <p>
   <a href="https://github.com/MaxAtslega?tab=followers">
     <img src="https://img.shields.io/github/followers/MaxAtslega?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
