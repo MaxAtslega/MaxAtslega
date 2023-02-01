@@ -29,7 +29,7 @@ I am a student from Germany. Since I was 11 years old, I have been interested in
 
 ## 🎧 Now Playing on Spotify
 
-[<img src="https://spotify-live.atslega.de/api/spotify" alt="Spotify Playing" width="420"/>](https://open.spotify.com/user/gxuh6amx0d27qr72kom5eqsm2)
+[<img src="https://spotify.atslega.dev/api/spotify" alt="Spotify Playing" width="420"/>](https://open.spotify.com/user/gxuh6amx0d27qr72kom5eqsm2)
 
 ## 🛠️ My favorite tools
 
