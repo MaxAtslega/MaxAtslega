@@ -10,7 +10,7 @@
 </p>
 
 ## Glad to see you here!
-I am a student from Germany. Since I was 11 years old, I have been interested in programming and technology. In addition to computer science and software engineering, my hobbies include going to the gym, cycling, walking with my dog and travelling.
+I am a student from Germany. Since I was 11 years old, I have been interested in programming and technology. In addition to computer science and software engineering, my hobbies include going to the gym, reading, cycling, walking with my dog and travelling.
 
 
 <br>
