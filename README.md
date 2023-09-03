@@ -20,7 +20,7 @@ I am a student from Germany. Since I was 11 years old, I have been interested in
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool
-- 🚀 I’m currently learning Cyber-Security and Data Science
+- 🚀 I’m currently learning IoT
 - ❤ I love Bots, Minimalism, 90fps, Fast Internet 🥴
 - 💬 Ask me about anything on [Discord](https://discord.gg/8nngawAbmN), I am happy to help
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
