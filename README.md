@@ -115,5 +115,21 @@ I am a student from Germany. Since I was 11 years old, I have been interested in
 ## 📈 Weekly development breakdown
 <p>
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```rust
+From: 02 September 2023 - To: 03 September 2023
+
+Total Time: 2 hrs 23 mins
+
+Markdown         1 hr 9 mins     >>>>>>>>>>>>-------------   48.71 %
+TypeScript       56 mins         >>>>>>>>>>---------------   39.18 %
+Java             6 mins          >------------------------   04.28 %
+yarn.lock        4 mins          >------------------------   03.35 %
+CSS              4 mins          >------------------------   03.29 %
+JavaScript       1 min           -------------------------   01.11 %
+JSON             0 secs          -------------------------   00.07 %
+GitIgnore file   0 secs          -------------------------   00.00 %
+```
+
+<!--END_SECTION:waka-->
 </p>
