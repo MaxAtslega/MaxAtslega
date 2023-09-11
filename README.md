@@ -119,17 +119,17 @@ I am a student from Germany. Since I was 11 years old, I have been interested in
 ```rust
 From: 02 September 2023 - To: 09 September 2023
 
-Total Time: 13 hrs 12 mins
+Total Time: 18 hrs 12 mins
 
-Markdown         6 hrs 57 mins   >>>>>>>>>>>>>------------   52.66 %
-Java             4 hrs 38 mins   >>>>>>>>>----------------   35.14 %
-TypeScript       1 hr 21 mins    >>>----------------------   10.23 %
-yarn.lock        4 mins          -------------------------   00.61 %
-CSS              4 mins          -------------------------   00.60 %
-Kotlin           3 mins          -------------------------   00.41 %
-JavaScript       1 min           -------------------------   00.20 %
-Python           0 secs          -------------------------   00.08 %
-JSON             0 secs          -------------------------   00.04 %
+Markdown         9 hrs 58 mins   >>>>>>>>>>>>>>-----------   54.73 %
+Java             5 hrs 20 mins   >>>>>>>------------------   29.33 %
+TypeScript       1 hr 21 mins    >>-----------------------   07.42 %
+JavaScript       1 hr 17 mins    >>-----------------------   07.09 %
+yarn.lock        5 mins          -------------------------   00.48 %
+CSS              4 mins          -------------------------   00.43 %
+Kotlin           3 mins          -------------------------   00.30 %
+JSON             1 min           -------------------------   00.14 %
+Python           0 secs          -------------------------   00.06 %
 XML              0 secs          -------------------------   00.01 %
 ```
 
