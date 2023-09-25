@@ -25,8 +25,6 @@ I am a student from Germany. Since I was 11 years old, I have been interested in
 - 💬 Ask me about anything on [Discord](https://discord.gg/8nngawAbmN), I am happy to help
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-<a href="https://www.buymeacoffee.com/MaxAtslega"><img width="200" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=MaxAtslega&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
-
 ## 🎧 Now Playing on Spotify
 
 [<img src="https://spotify.atslega.dev/api/spotify" alt="Spotify Playing" width="420"/>](https://open.spotify.com/user/gxuh6amx0d27qr72kom5eqsm2)
