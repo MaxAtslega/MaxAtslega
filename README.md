@@ -115,20 +115,20 @@ I am a student from Germany. Since I was 11 years old, I have been interested in
   <!--START_SECTION:waka-->
 
 ```rust
-From: 02 September 2023 - To: 12 December 2023
+From: 02 September 2023 - To: 13 December 2023
 
-Total Time: 138 hrs 53 mins
+Total Time: 143 hrs 1 min
 
-Java                   44 hrs 26 mins  >>>>>>>>-----------------   31.98 %
-Markdown               36 hrs 1 min    >>>>>>-------------------   25.93 %
-TypeScript             27 hrs 11 mins  >>>>>--------------------   19.56 %
-Rust                   18 hrs 44 mins  >>>----------------------   13.49 %
-JSON                   2 hrs 54 mins   >------------------------   02.10 %
-XML                    1 hr 46 mins    -------------------------   01.28 %
-JavaScript             1 hr 39 mins    -------------------------   01.19 %
-YAML                   1 hr 1 min      -------------------------   00.74 %
-Text                   50 mins         -------------------------   00.61 %
-Groovy                 43 mins         -------------------------   00.52 %
+Java                   44 hrs 26 mins  >>>>>>>>-----------------   31.05 %
+Markdown               36 hrs 10 mins  >>>>>>-------------------   25.28 %
+TypeScript             27 hrs 11 mins  >>>>>--------------------   18.99 %
+Rust                   21 hrs 45 mins  >>>>---------------------   15.21 %
+JSON                   2 hrs 54 mins   >------------------------   02.04 %
+XML                    1 hr 46 mins    -------------------------   01.24 %
+JavaScript             1 hr 39 mins    -------------------------   01.16 %
+YAML                   1 hr 1 min      -------------------------   00.72 %
+Text                   51 mins         -------------------------   00.60 %
+Groovy                 43 mins         -------------------------   00.51 %
 ```
 
 <!--END_SECTION:waka-->
