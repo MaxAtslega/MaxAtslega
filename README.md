@@ -115,7 +115,7 @@ I am a student from Germany. Since I was 11 years old, I have been interested in
   <!--START_SECTION:waka-->
 
 ```rust
-From: 02 September 2023 - To: 29 February 2024
+From: 02 September 2023 - To: 01 March 2024
 
 Total Time: 226 hrs 40 mins
 
