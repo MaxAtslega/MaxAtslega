@@ -115,20 +115,20 @@ I am a student from Germany. Since I was 11 years old, I have been interested in
   <!--START_SECTION:waka-->
 
 ```rust
-From: 02 September 2023 - To: 18 March 2024
+From: 02 September 2023 - To: 19 March 2024
 
-Total Time: 280 hrs 29 mins
+Total Time: 283 hrs 23 mins
 
-Rust                   72 hrs 30 mins  >>>>>>-------------------   25.69 %
-Java                   60 hrs 36 mins  >>>>>--------------------   21.47 %
-C#                     45 hrs 45 mins  >>>>---------------------   16.21 %
-Markdown               44 hrs 29 mins  >>>>---------------------   15.76 %
-TypeScript             27 hrs 11 mins  >>-----------------------   09.63 %
-JSON                   5 hrs 12 mins   -------------------------   01.85 %
-TOML                   4 hrs 56 mins   -------------------------   01.75 %
-YAML                   3 hrs 19 mins   -------------------------   01.18 %
-XML                    2 hrs 24 mins   -------------------------   00.85 %
-Docker                 2 hrs 23 mins   -------------------------   00.85 %
+Rust                   72 hrs 30 mins  >>>>>>-------------------   25.43 %
+Java                   60 hrs 36 mins  >>>>>--------------------   21.25 %
+C#                     48 hrs 11 mins  >>>>---------------------   16.90 %
+Markdown               44 hrs 29 mins  >>>>---------------------   15.60 %
+TypeScript             27 hrs 11 mins  >>-----------------------   09.53 %
+JSON                   5 hrs 40 mins   -------------------------   01.99 %
+TOML                   4 hrs 56 mins   -------------------------   01.73 %
+YAML                   3 hrs 19 mins   -------------------------   01.17 %
+XML                    2 hrs 24 mins   -------------------------   00.84 %
+Docker                 2 hrs 23 mins   -------------------------   00.84 %
 ```
 
 <!--END_SECTION:waka-->
