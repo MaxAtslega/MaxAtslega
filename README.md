@@ -115,9 +115,9 @@ I am a student from Germany. Since I was 11 years old, I have been interested in
   <!--START_SECTION:waka-->
 
 ```rust
-From: 02 September 2023 - To: 05 May 2024
+From: 02 September 2023 - To: 06 May 2024
 
-Total Time: 351 hrs 55 mins
+Total Time: 351 hrs 57 mins
 
 Java                   77 hrs 43 mins  >>>>>--------------------   21.96 %
 Rust                   72 hrs 30 mins  >>>>>--------------------   20.49 %
