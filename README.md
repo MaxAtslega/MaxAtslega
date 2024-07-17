@@ -114,7 +114,7 @@ I'm a student from Germany with a long-standing interest in programming and tech
   <!--START_SECTION:waka-->
 
 ```rust
-From: 02 September 2023 - To: 14 July 2024
+From: 02 September 2023 - To: 15 July 2024
 
 Total Time: 446 hrs 38 mins
 
