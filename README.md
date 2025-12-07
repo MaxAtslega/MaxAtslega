@@ -10,7 +10,7 @@
 </p>
 
 ## Glad to see you here!
-I'm a student from Germany with a long-standing interest in programming and technology. Beyond my passion for computer science and software engineering, I enjoy going to the gym, reading, cycling, walking my dog, and traveling.
+I'm a student from Germany with a long-standing interest in programming and technology. Beyond my passion for computer science and software engineering, I enjoy reading, cycling and traveling.
 
 <br>
 
@@ -19,7 +19,7 @@ I'm a student from Germany with a long-standing interest in programming and tech
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool
-- 🚀 I’m currently learning IoT
+- 🚀 I’m currently learning embedded systems development
 - ❤ I love Bots, Minimalism, 90fps, Fast Internet 🥴
 - 💬 Ask me about anything on [Discord](https://discord.gg/8nngawAbmN), I am happy to help
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
@@ -81,7 +81,6 @@ I'm a student from Germany with a long-standing interest in programming and tech
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
     <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
-    <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon AWS-232F3E.svg?logo=Amazon AWS&logoColor=white">
     <img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-E57000.svg?logo=Proxmox&logoColor=white">
 </p>
 
