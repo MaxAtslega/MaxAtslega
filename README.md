@@ -97,27 +97,3 @@ I'm a student from Germany with a long-standing interest in programming and tech
     <img alt="Windows Server" src="https://img.shields.io/badge/Windows Server-0078D6.svg?logo=Windows&logoColor=white">
     <img alt="Linux" src="https://img.shields.io/badge/Linux Server-FCC624.svg?logo=Linux&logoColor=black">
 </p>
-
-## 📈 Weekly development breakdown
-<p>
-  <!--START_SECTION:waka-->
-
-```rust
-From: 02 September 2023 - To: 01 November 2024
-
-Total Time: 474 hrs 12 mins
-
-TypeScript             106 hrs 29 mins >>>>>>-------------------   22.36 %
-Markdown               88 hrs 45 mins  >>>>>--------------------   18.64 %
-Java                   87 hrs 31 mins  >>>>>--------------------   18.38 %
-Rust                   74 hrs 29 mins  >>>>---------------------   15.64 %
-C#                     58 hrs 5 mins   >>>----------------------   12.20 %
-JSON                   19 hrs 38 mins  >------------------------   04.12 %
-TOML                   5 hrs 41 mins   -------------------------   01.20 %
-Text                   4 hrs 50 mins   -------------------------   01.02 %
-YAML                   4 hrs 25 mins   -------------------------   00.93 %
-CSS                    3 hrs 30 mins   -------------------------   00.74 %
-```
-
-<!--END_SECTION:waka-->
-</p>
